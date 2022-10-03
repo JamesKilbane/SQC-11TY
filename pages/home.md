@@ -9,12 +9,10 @@ eleventyNavigation:
 ---
 # Welcome
 
-This is a template for building a simple blog website with the [Eleventy static site generator](https://www.11ty.dev), with deployment to [Netlify](https://www.netlify.com).
+Summit Quantitative Consulting is a Greek registered firm that focuses on support and development of large scale quantitative applications.
 
-Includes [Netlify CMS](https://www.netlifycms.org) for WYSIWYG content editing, and [Netlify Forms](https://www.netlify.com/docs/form-handling) for processing your site's form data.
+With a history in academia, we bring a rigour to application development that allows clients a confidence and a certainty in our code. Our skills lie in test driven developement, large scale correctness testing and long periods of historical backtests.
 
-For more info on installation and usage, view the [project repo]({{ pkg.repository.url }}) on GitHub.
+We have a proven track record in dealing with critical legacy applications - both focusing on improving those legacy applications and replacing them in a way to minimize disruption to businesses.
 
-Or click the button below to deploy your own copy of this project to Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+Our technology history has focused on Python, C++ and legacy .NET systems.
